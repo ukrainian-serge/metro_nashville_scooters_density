@@ -9,7 +9,6 @@
 * Original pilot program limited scooter density to 340 scooters per square mile
 * Other cities have limited the number of scooters per block face
 
-
 ### The data
 #### Shared Urban Mobility Device (SUMD) availability data for May, June, and July 2019  
 ```
@@ -40,7 +39,4 @@ Anecdotally, per metro ITS staff, some of these observations may still be in the
 
 #### Shapefiles for Nashville Promise Zone 
 SUMD devices are thought to be of particular use in the [Promise Zone](https://www.nashville.gov/Mayors-Office/Promise-Zone/Basics.aspx) to help mitigate the "last mile" problem that exists in connecting people where they live to public transportation.
-
-Remember that you need to keep the shapefiles together. Even though you will point to the `.shp` file to create polygons, that file references other files in the `MDHA_Promise_Zones` folder to create the geoDataFrame.
-
 
