@@ -1,3 +1,8 @@
+<p align="center">
+    <img src="imgs\bird-lime-uber-lyft.jpg" alt="logo" width="400" height="400"/>
+</p>
+
+
 ## Project to address a major planning question for scooters
  * What is the ideal density of available scooters to:
     * enable scooters to serve our transportation goals,
